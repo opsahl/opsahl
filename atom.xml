@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My random thoughts]]></title>
+  <link href="http://opsahl.github.com/atom.xml" rel="self"/>
+  <link href="http://opsahl.github.com/"/>
+  <updated>2012-08-14T22:47:56+02:00</updated>
+  <id>http://opsahl.github.com/</id>
+  <author>
+    <name><![CDATA[Tor Erling Opsahl]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Trying again to get a blog working]]></title>
+    <link href="http://opsahl.github.com/blog/2012/08/14/trying-again-to-get-a-blog-working/"/>
+    <updated>2012-08-14T21:19:00+02:00</updated>
+    <id>http://opsahl.github.com/blog/2012/08/14/trying-again-to-get-a-blog-working</id>
+    <content type="html"><![CDATA[<p>I have tried to get a static blog/website with nanoc earlier, but I have
+found that I&#8217;m not really up to making it too well, so I was looking a bit
+over on jekyll and octopress, and this seems like something that I really can
+use.</p>
+
+<p>So there is one thing that I think that I have learned from this experience, that
+is, for getting something done, go with the simplest thing that can work. For learning
+just go into something, even though you have to go out on a bit thin ice, the result
+may not be that stellar, but for sure you&#8217;ll learn quite a bit in the process.</p>
+]]></content>
+  </entry>
+  
+</feed>
